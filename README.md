@@ -5,3 +5,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0508](./README/0508.md) | CSS 애니메이션
 > - [0509](./README/0509.md) | HTML 마크업 dl, dt, dd CSS 속성, 웹 접근성 이슈
 > - [0510](./README/0510.md) | vscode 단축키, `<time>`태그, calc 속성, jQuery
+> - [0511](./README/0511.md) | WAI-ARIA, `<figure>` 태그, IR기법
