@@ -1,0 +1,17 @@
+    button {
+        width: 49px;
+        height: 36px;
+        margin: 0;
+        padding: 0;
+        border: none 0px;
+        background-image: none;
+        background-color: transparent
+    }
+    
+    button img {
+        display: block
+    }
+    
+    a img {
+        border: none 0px
+    }
