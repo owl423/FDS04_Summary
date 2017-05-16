@@ -8,4 +8,5 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0511](./README/0511.md) | WAI-ARIA, `<figure>` 태그, IR기법, 스프라이트 이미지
 > - [0512](./README/0512.md) | CSS 선택자, transform 카드 효과, font, transition, counter-increment
 > - [0515](./README/0515.md) | CSS Transform, jQuery메소드, 웹카페 Slogan 및 Footer, Sass 기본
+> - [0516](./README/0516.md) | 반응형 웹의 개념과 구현
 
