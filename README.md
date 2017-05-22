@@ -11,3 +11,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0516](./README/0516.md) | 반응형 웹의 개념과 구현
 > - [0517](./README/0517.md) | 그리드, Scss
 > - [0518](./README/0518.md) | sass 문법 반복문(@each, @for), 미디어쿼리, 보간법(interpolation)  
+> - [0522](./README/0522.md) | MIME, Scaffolding, Grid 레이아웃, Keycode, Locale, 반응형과 유동형
