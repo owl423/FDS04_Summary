@@ -14,3 +14,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0522](./README/0522.md) | MIME, Scaffolding, Grid 레이아웃, Keycode, Locale, 반응형과 유동형
 > - [0523](./README/0523.md) | npm package.json/gitignore 사용방법, Sass 함수, 이미지 추출(PNG, SVG) 및 최적화, Zeplin 소개
 > - [0524](./README/0524.md) | asset 추출, chrome workspace, RWD 제작시 고려사항
+> - [0526](./README/0526.md) | Sass 단축표기법, VS code snippets 설정법, Sass-doc, Susy사용법
