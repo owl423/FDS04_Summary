@@ -18,3 +18,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0526](./README/0526.md) | Sass 단축표기법, VS code snippets 설정법, Sass-doc, Susy사용법
 > - [0529](./README/0529.md) | JavaScript 문법과 데이터 유형
 > - [0530](./README/0530.md) | Javascript 기초+
+> - [0531](./README/0531.md) | Javascript 데이터 연산자, 타입 검증, 문(Statement)
