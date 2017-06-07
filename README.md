@@ -21,3 +21,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0531](./README/0531.md) | Javascript 데이터 연산자, 타입 검증, 문(Statement)
 > - [0602](./README/0602.md) | for in, for of, error handling, control flow
 > - [0605](./README/0605.md) | 함수, this 컨텍스트, 함수 프로토타입 객체, Arguments/Parameters, 재귀함수/팩토리얼 함수
+> - [0607](./README/0607.md) | 즉시실행 함수(IIFE), 모듈 패턴, 클로저
