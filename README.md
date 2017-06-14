@@ -24,3 +24,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0607](./README/0607.md) | 즉시실행 함수(IIFE), 모듈 패턴, 클로저
 > - [0609](./README/0609.md) | 엄격(strict) 모드, 사용자 정의 객체 생성자 함수, 서버에서 파일 병합시 IIFE 패턴 사용시 주의할 점, BOM, DOM(Lv0, Lv1, Lv2)
 > - [0612](./README/0612.md) | DOM
+> - [0613](./README/0613.md) | 이벤트 핸들링, this, 정규식, DOM methods
