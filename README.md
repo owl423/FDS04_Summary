@@ -27,3 +27,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0613](./README/0613.md) | 이벤트 핸들링, this, 정규식, DOM methods
 > - [0614](./README/0614.md) | 
 > - [0616](./README/0616.md) | insertBefore, removeChild, replaceChild, innerHTML
+> - [0619](./README/0619.md) | Computational Thinking Day 1 (운영체제, 컴퓨터 구조)
