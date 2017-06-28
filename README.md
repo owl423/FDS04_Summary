@@ -25,7 +25,7 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0609](./README/0609.md) | 엄격(strict) 모드, 사용자 정의 객체 생성자 함수, 서버에서 파일 병합시 IIFE 패턴 사용시 주의할 점, BOM, DOM(Lv0, Lv1, Lv2)
 > - [0612](./README/0612.md) | DOM
 > - [0613](./README/0613.md) | 이벤트 핸들링, this, 정규식, DOM methods
-> - [0614](./README/0614.md) | 
+> - [0614](./README/0614.md) | 노드 생성/속성, 노드 조작(자식 노드 추가/제거), 클릭, 포커스
 > - [0616](./README/0616.md) | insertBefore, removeChild, replaceChild, innerHTML
 > - [0619](./README/0619.md) | Computational Thinking Day 1 (운영체제, 컴퓨터 구조)
 > - [0626](./README/0626.md) | Computational Thinking Day 2 (네트워크의 이해)
