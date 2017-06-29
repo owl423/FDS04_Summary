@@ -29,3 +29,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0616](./README/0616.md) | insertBefore, removeChild, replaceChild, innerHTML
 > - [0619](./README/0619.md) | Computational Thinking Day 1 (운영체제, 컴퓨터 구조)
 > - [0626](./README/0626.md) | Computational Thinking Day 2 (네트워크의 이해)
+> - [0629](./README/0629.md) | ECMA Script 2015 
