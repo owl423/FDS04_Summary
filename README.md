@@ -35,3 +35,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0630](./README/0630.md) | JavaScript 객체 지향 프로그래밍(OOP)
 > - [0703](./README/0703.md) | 자료구조
 > - [0704](./README/0704.md) | Ajax(XMLHttpRequest), Bulma, Randomuser api 사용
+> - [0705](./README/0705.md) | local storage, json server, POSTMAN, jQuery
