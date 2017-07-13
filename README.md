@@ -38,3 +38,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0705](./README/0705.md) | local storage, json server, POSTMAN, jQuery
 > - [0711](./README/0711.md) | package.json, CDN, PUG, arrow(=>), 메소드 체이닝, jQuery Method
 > - [0712](./README/0712.md) | jQuery, pug, ES6(class, arrow, template)
+> - [0713](./README/0713.md) | Gulp 특강
