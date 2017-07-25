@@ -46,3 +46,4 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0720](./README/0720.md) | Webpack 특강
 > - [0721](./README/0721.md) | Vue.js (이벤트 수식어, v-bind 동적 attribute 바인딩, 계산된 속성)
 > - [0724](./README/0724.md) | Computed Setter, Watch, vm.$watch, Array와 Object 메서드
+> - [0725](./README/0725.md) | Form Input Binding, Component, slot, Is...
