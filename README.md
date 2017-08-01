@@ -48,3 +48,5 @@ FDS 4기 분들이 매일 공부한 내용을 Markdown으로 정리해서 올리
 > - [0724](./README/0724.md) | Computed Setter, Watch, vm.$watch, Array와 Object 메서드
 > - [0725](./README/0725.md) | Form Input Binding, Component, slot, Is...
 > - [0726](./README/0726.md) | 중첩된 컴포넌트간 통신(props, custom event), 글로벌 이벤트 버스, slot(named, scoped)
+> - 0727
+> - [0728](./README/0728.md) | keep-alive, vue-transition…….
